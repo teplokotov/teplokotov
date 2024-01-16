@@ -34,4 +34,4 @@
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 ---
-[![Counter](https://visitcount.itsvg.in/api?id=teplokotov&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![codewars](https://www.codewars.com/users/teplokotov/badges/small)](https://www.codewars.com/users/teplokotov) [![Counter](https://visitcount.itsvg.in/api?id=teplokotov&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
