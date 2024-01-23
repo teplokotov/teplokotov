@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-🤖 Engineer → 🌟 Digital Marketing Manager → 💻 junior Front-End Developer<br>
+🤖 Engineer → 🌟 Digital Marketing Manager → 💻 Front-End Developer<br>
 🚀 I love programming, skiing and cooking Asian food <br>
 💬 You can ask me whatever you want ^_^<br>
 
